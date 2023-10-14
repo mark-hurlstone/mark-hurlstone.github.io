@@ -19,22 +19,6 @@ sidebar_sort_order: 5
 Please see copyright notice at bottom of page.
 </p>
 
-## Peer Reviewed Manuscripts - in preparation
-
-**Hurlstone, M. J.** (2022, in preparation). Modelling response times in serial recall: A competitive queuing approach.
-
-**Hurlstone, M. J.** (2022, in preparation). Reappraising the evidence against time-based accounts of serial recall.
-
-**Hurlstone, M. J.** (2022, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
-
-**Hurlstone, M. J.,** & Wang, S. (2022, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
-
-
-
-**Hurlstone, M. J.,** & Farrell, S. (2022, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
-
-**Hurlstone, M. J.,** & Ecker, U. K. H., (2022, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
-
 ## Peer Reviewed Manuscripts - submitted
 
 **Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity game: A cooperation game for simulating the prevention of invasive pests.](HTW.23.pdf)

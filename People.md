@@ -22,14 +22,13 @@ Susie Wang (with Carmen Lawrence, Zoe Leviston, and Iain Walker) <br>
 Douglas MacFarlane (with Ullrich Ecker) <br>
 Matthew Andreotta (with Fabio Boschetti, Cecile Paris, Simon Farrell, and Iain Walker) <br>
 Georgiana Cheuck (with Simon Farrell) <br>
-<br>
+Blake Cavve (with Simon Farrell)<br>
 
 ## Primary or co-supervisor
 Li Qian Tay (with Ullrich Ecker & Tim Kurz) <br>
 
 ## Secondary supervisor
 Anthony Di Pietro <br>
-Blake Cavve 
 
 # Past Honours students 
 

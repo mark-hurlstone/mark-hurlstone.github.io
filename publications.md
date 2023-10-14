@@ -29,7 +29,7 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** & Wang, S. (2022, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2022, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
+
 
 **Hurlstone, M. J.,** & Farrell, S. (2022, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
@@ -37,15 +37,17 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall. 
+**Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity game: A cooperation game for simulating the prevention of invasive pests.](HTW.23.pdf)
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2022, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2023, resubmitted). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.23.pdf) [[Supplementary Material](HWN.23.SI.pdf)]
 
-**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2022, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
+**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2023). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
-**Hurlstone, M. J.** (2022, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
+**Hurlstone, M. J.** (2023). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
-**Hurlstone, M. J.** (2022, in revision). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
+**Hurlstone, M. J.** (2023). [Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory.](H.23.pdf)
+
+Marsh, J. E., **Hurlstone, M. J.,** Marois, A.,  Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall.  
 
 ## Peer Reviewed Manuscripts - published
 

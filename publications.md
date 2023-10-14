@@ -21,7 +21,7 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity game: A cooperation game for simulating the prevention of invasive pests.](HTW.23.pdf)
+**Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity collective-risk social dilemma: Simulating the prevention of arapidly spreading pest.](HTW.23.pdf)
 
 **Hurlstone, M. J.,** White, B., & Newell, B. R. (2023, resubmitted). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.23.pdf) [[Supplementary Material](HWN.23.SI.pdf)]
 

@@ -37,6 +37,8 @@ Marsh, J. E., **Hurlstone, M. J.,** Marois, A.,  Ball, L. J., Moore, S. B., Vach
 
 **Hurlstone, M. J.** (2023, in press). [Serial recall.](H.23.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
+Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [Thinking clearly about misinformation.](TLHKE.23.CP.pdf) *Communications Psychology*.
+
 Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [A focus shift in the evaluation of misinformation interventions.](tay.2023.hksmrpp.pdf) *Harvard Kennedy School Misinformation Review*.
 
 Andreotta, M., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2022). [Evidence for three distinct climate change audience segments with varying belief updating tendencies: Implications for climate change communication.](ABFPWH.22.CC.pdf) *Climatic Change, 174(32),* 1-29.

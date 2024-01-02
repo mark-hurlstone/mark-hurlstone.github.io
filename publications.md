@@ -35,7 +35,7 @@ Marsh, J. E., **Hurlstone, M. J.,** Marois, A.,  Ball, L. J., Moore, S. B., Vach
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.** (2023, in press). [Serial recall.](H.23.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+**Hurlstone, M. J.** (2024, in press). [Serial recall.](H.23.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [Thinking clearly about misinformation.](TLHKE.23.CP.pdf) *Communications Psychology*.
 

@@ -35,6 +35,8 @@ Marsh, J. E., **Hurlstone, M. J.,** Marois, A.,  Ball, L. J., Moore, S. B., Vach
 
 ## Peer Reviewed Manuscripts - published
 
+Marsh, J. E., **Hurlstone, M. J.,** Marois, A., Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., Aust, F., & Bell, R. (2024, in press). [Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall.](Marsh.et.al.24.JEP.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition. 
+
 **Hurlstone, M. J.** (2024, in press). [Serial recall.](H.23.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [Thinking clearly about misinformation.](TLHKE.23.CP.pdf) *Communications Psychology*.

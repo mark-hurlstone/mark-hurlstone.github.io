@@ -21,6 +21,10 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequality aversion, and rank-status.](CHF.24a.pdf) 
+
+Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for inequality aversion and rank-status.](CHF.24b.pdf)
+
 **Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity collective-risk social dilemma: Simulating the prevention of arapidly spreading pest.](HTW.23.pdf)
 
 **Hurlstone, M. J.,** White, B., & Newell, B. R. (2023, resubmitted). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.23.pdf) [[Supplementary Material](HWN.23.SI.pdf)]
@@ -30,8 +34,6 @@ Please see copyright notice at bottom of page.
 **Hurlstone, M. J.** (2023). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
 **Hurlstone, M. J.** (2023). [Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory.](H.23.pdf)
-
-Marsh, J. E., **Hurlstone, M. J.,** Marois, A.,  Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall.  
 
 ## Peer Reviewed Manuscripts - published
 

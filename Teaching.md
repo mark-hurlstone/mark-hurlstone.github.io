@@ -87,3 +87,7 @@ This unit examines the factors that influence psychological functioning in a soc
 3. Week 20: [Climate Cooperation](Week 20. Climate Cooperation.pdf)
 
 ## PSYC481 Psychological Aspects of Advertising
+
+1. Week 3: [Norm-Based Interventions](Week 3. Norm-Based Interventions.pdf) 
+3. Week 6: [Cognitive Psychology of Climate Change](Week 6. Cognitive Psychology of Climate Change.pdf)
+4. Week 7: [Cognitive Psychology of Misinformation](Week 7. Cognitive Psychology of Misinformation)

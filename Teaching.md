@@ -79,3 +79,11 @@ This unit examines the factors that influence psychological functioning in a soc
 2. Week 7: [Two-Factor Between-Participants ANOVA](Week 7. Two-Factor Between-Participants Designs.pdf) [[Lab](Lab-Session-7-Instructors-Copy.html)]
 3. Week 8: [Two-Factor Mixed and Within-Participants ANOVA](Week 8. Two-Factor Mixed and Within-Participants ANOVA.pdf) [[Lab](Lab-Session-8-Instructors-Copy.html)]
 4. Week 9: [Three-Factor ANOVA](Week 9. Three-Factor ANOVA.pdf) [[Lab](Lab-Session-9-Instructors-Copy.html)]
+
+## PSYC370 Psychology of Cooperation
+
+1. Week 18: [Social Preferences](Week 18. Social Preferences.pdf)
+2. Week 19: [Reputation and Cooperation](Week 19. Reputation and Cooperation.pdf)
+3. Week 20: [Climate Cooperation](Week 20. Climate Cooperation.pdf)
+
+## PSYC481 Psychological Aspects of Advertising

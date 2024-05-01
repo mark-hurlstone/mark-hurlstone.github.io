@@ -21,6 +21,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+Tay, L. Q., Jiang, M., **Hurlstone, M. J.,** Platow, M., Kurz, T., & Ecker, U. K. H. (2024). Causal inference in misinformation and conspiracy research.
+
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequality aversion, and rank-status.](CHF.24a.pdf) 
 
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for inequality aversion and rank-status.](CHF.24b.pdf)

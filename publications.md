@@ -21,8 +21,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Tay, L. Q., Jiang, M., **Hurlstone, M. J.,** Platow, M., Kurz, T., & Ecker, U. K. H. (2024). Causal inference in misinformation and conspiracy research.
-
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequality aversion, and rank-status.](CHF.24a.pdf) 
 
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for inequality aversion and rank-status.](CHF.24b.pdf)
@@ -39,9 +37,11 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 
 ## Peer Reviewed Manuscripts - published
 
-Marsh, J. E., **Hurlstone, M. J.,** Marois, A., Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., Aust, F., & Bell, R. (2024, in press). [Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall.](Marsh.et.al.24.JEP.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition.* 
+Tay, L. Q., Jiang, M., **Hurlstone, M. J.,** Platow, M., Kurz, T., & Ecker, U. K. H. (2024). [Causal inference in misinformation and conspiracy research.](THJPKE.24.AiP.pdf) *Advances in Psychology.*
 
-**Hurlstone, M. J.** (2024, in press). [Serial recall.](H.23.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+Marsh, J. E., **Hurlstone, M. J.,** Marois, A., Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., Aust, F., & Bell, R. (2024). [Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall.](Marsh.et.al.24.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition.* 
+
+**Hurlstone, M. J.** (2024). [Serial recall.](H.23.OHHM.pdf) In Kahana, M., and Wagner, A. (Eds.) *The Oxford Handbook of Human Memory.* Oxford University Press.
 
 Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [Thinking clearly about misinformation.](TLHKE.23.CP.pdf) *Communications Psychology*.
 

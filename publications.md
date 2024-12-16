@@ -27,8 +27,6 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 
 **Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity collective-risk social dilemma: Simulating the prevention of arapidly spreading pest.](HTW.23.pdf)
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2023, resubmitted). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.23.pdf) [[Supplementary Material](HWN.23.SI.pdf)]
-
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2023). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
 **Hurlstone, M. J.** (2023). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
@@ -36,6 +34,8 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 **Hurlstone, M. J.** (2023). [Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory.](H.23.pdf)
 
 ## Peer Reviewed Manuscripts - published
+
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2024, in press). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.24.RSOS.pdf) [[Supplementary Material](HWN.24.RSOS-SI.pdf)]
 
 **Hurlstone, M. J.** (2024). [Serial recall.](H.23.OHHM.pdf) In Kahana, M., and Wagner, A. (Eds.) *The Oxford Handbook of Human Memory.* Oxford University Press.
 

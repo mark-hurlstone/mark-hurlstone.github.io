@@ -117,6 +117,9 @@ Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013
 
 Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). [Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction.](HVHMMJ.11.ICBEN.pdf) In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
 
+## Editorials
+Towse, J., Hurlstone, M. J., Atkinson, A., Saito, S., & Logie, R. (2024, in press). [Working memory gets a workout: Reviewing the legacy of Baddeley and Hitch (1974) 50 years on. Quarterly Journal of Experimental Psychology.](THASL.24.QJEP.pdf)  
+
 ## Online Pieces
 
 **Hurlstone, M. J.,** & Lewandowsky, S. (2015). <a href="http://www.shapingtomorrowsworld.org/hurlstonePLOS.html">How to build support for climate policies?</a> *Shaping Tommorow's World.*

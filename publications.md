@@ -35,7 +35,7 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2024, in press). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.24.RSOS.pdf) [[Supplementary Material](HWN.24.RSOS-SI.pdf)]
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2024, in press). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.24.RSOS.pdf) *Royal Society Open Science.* [[Supplementary Material](HWN.24.RSOS-SI.pdf)]
 
 **Hurlstone, M. J.** (2024). [Serial recall.](H.23.OHHM.pdf) In Kahana, M., and Wagner, A. (Eds.) *The Oxford Handbook of Human Memory.* Oxford University Press.
 

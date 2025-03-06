@@ -21,7 +21,7 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2015). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.25.Submitted.pdf) 
+Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2025). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.25.Submitted.pdf) 
 
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequality aversion, and rank-status.](CHF.24a.pdf) 
 

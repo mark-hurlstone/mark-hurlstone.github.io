@@ -27,7 +27,7 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequali
 
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for inequality aversion and rank-status.](CHF.24b.pdf)
 
-**Hurlstone, M. J.,** Tapsuwan, S., & White, B. (2023). [The biosecurity collective-risk social dilemma: Simulating the prevention of arapidly spreading pest.](HTW.23.pdf)
+**Hurlstone, M. J.,** McKie, G., Tapsuwan, S., & White, B. (2023). [The biosecurity collective-risk social dilemma: Simulating the prevention of arapidly spreading pest.](HMTW.25.pdf)[[Supplementary Material](HMTW.25.SM.pdf)]
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2023). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 

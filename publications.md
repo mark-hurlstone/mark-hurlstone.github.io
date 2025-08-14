@@ -21,7 +21,7 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** McKie, G., Tapsuwan, S., & White, B. (2025). [The biosecurity collective-risk social dilemma: Simulating the prevention of arapidly spreading pest.](HMTW.25.pdf)[[Supplementary Material](HMTW.25.SM.pdf)]
+**Authors masked for peer review (2025). [Title masked for peer review.]()[[Supplementary Material]()]
 
 Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2025). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.25.Submitted.pdf) 
 

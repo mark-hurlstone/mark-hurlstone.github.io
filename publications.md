@@ -21,6 +21,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2025). [Sensitivity of collective action to early warning signals of shifting climate tipping points.](Hurlstone.White.&.Newell.25b.pdf) [[Supplementary Material](Hurlstone.White.&.Newell.25b.Supplement.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-White-Newell-2025-Supplementary-Resources">GitHub Repository</a>]
+
 Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2025). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.25.Submitted.pdf) 
 
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequality aversion, and rank-status.](CHF.24a.pdf) 

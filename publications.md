@@ -37,7 +37,7 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2024, in press). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.24.RSOS.pdf) *Royal Society Open Science.* [[Supplementary Material](HWN.24.RSOS-SI.pdf)]
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2025). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.25.RSOS.pdf) *Royal Society Open Science.* [[Supplementary Material](HWN.25.RSOS-SI.pdf)]
 
 **Hurlstone, M. J.** (2024). [Serial recall.](H.23.OHHM.pdf) In Kahana, M., and Wagner, A. (Eds.) *The Oxford Handbook of Human Memory.* Oxford University Press.
 
@@ -45,7 +45,7 @@ Tay, L. Q., **Hurlstone, M. J.,** Jiang, M., Platow, M., Kurz, T., & Ecker, U. K
 
 Marsh, J. E., **Hurlstone, M. J.,** Marois, A., Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., Aust, F., & Bell, R. (2024). [Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall.](Marsh.et.al.24.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition.* 
 
-Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [Thinking clearly about misinformation.](TLHKE.23.CP.pdf) *Communications Psychology*.
+Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2024). [Thinking clearly about misinformation.](TLHKE.24.CP.pdf) *Communications Psychology*.
 
 Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [A focus shift in the evaluation of misinformation interventions.](tay.2023.hksmrpp.pdf) *Harvard Kennedy School Misinformation Review*.
 

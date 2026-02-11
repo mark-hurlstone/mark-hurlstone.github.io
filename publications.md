@@ -21,9 +21,9 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** McKie, G., Tapsuwan, S., & White, B. (2025). [The biosecurity collective-risk social dilemma: Simulating the prevention of a rapidly spreading pest.](HMTW.25.pdf) [[Supplementary Materials](HMTW.25.SM.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-McKie-Tapsuwan-White-2025-Supplementary-Resources">GitHub Repository</a>]
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2026). [Sensitivity of collective action to early warning signals of shifting climate tipping points.](Hurlstone.White.&.Newell.26.pdf) [[Supplementary Materials](Hurlstone.White.&.Newell.26.Supplement.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-White-Newell-2025-Supplementary-Resources">GitHub Repository</a>]
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2025). [Sensitivity of collective action to early warning signals of shifting climate tipping points.](Hurlstone.White.&.Newell.25b.pdf) [[Supplementary Materials](Hurlstone.White.&.Newell.25b.Supplement.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-White-Newell-2025-Supplementary-Resources">GitHub Repository</a>]
+**Hurlstone, M. J.,** McKie, G., Tapsuwan, S., & White, B. (2025). [The biosecurity collective-risk social dilemma: Simulating the prevention of a rapidly spreading pest.](HMTW.25.pdf) [[Supplementary Materials](HMTW.25.SM.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-McKie-Tapsuwan-White-2025-Supplementary-Resources">GitHub Repository</a>]
 
 Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2025). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.25.pdf) [[Supplementary Materials](Andreotta.et.al.25.SM.pdf)]
 

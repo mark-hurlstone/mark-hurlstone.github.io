@@ -39,7 +39,7 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 
 ## Peer Reviewed Manuscripts - published
 
-Hughes, R. W., **Hurlstone, M. J.,** Marsh, J. E., & Jones, D. M. (2026, in press). [High cognitive load abolishes auditory distraction in short-term memory: Implications for working memory-based attentional control and an alternative task-engagement account.](HHMJ.26.pdf) *Journal of Memory and Language.* [<a href="https://github.com/mark-hurlstone/Hughes-et-al-2025">GitHub Repository</a>] 
+Hughes, R. W., **Hurlstone, M. J.,** Marsh, J. E., & Jones, D. M. (2026, in press). [High cognitive load abolishes auditory distraction in short-term memory: Implications for working memory-based attentional control and an alternative task-engagement account.](Hughes.et.al.26.JML.pdf) *Journal of Memory and Language.* [<a href="https://github.com/mark-hurlstone/Hughes-et-al-2025">GitHub Repository</a>] 
 
 **Hurlstone, M. J.,** White, B., & Newell, B. R. (2025). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HWN.25.RSOS.pdf) *Royal Society Open Science.* [[Supplementary Material](HWN.25.RSOS-SI.pdf)]
 

@@ -25,8 +25,6 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** McKie, G., Tapsuwan, S., & White, B. (2025). [The biosecurity collective-risk social dilemma: Simulating the prevention of a rapidly spreading pest.](HMTW.25.pdf) [[Supplementary Materials](HMTW.25.SM.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-McKie-Tapsuwan-White-2025-Supplementary-Resources">GitHub Repository</a>]
 
-Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2025). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.25.pdf) [[Supplementary Materials](Andreotta.et.al.25.SM.pdf)]
-
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Social utility, inequality aversion, and rank-status.](CHF.24a.pdf) 
 
 Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for inequality aversion and rank-status.](CHF.24b.pdf)
@@ -38,6 +36,8 @@ Cavve, B., **Hurlstone, M. J.,** & Farrell, S. (2024). [Stated preferences for i
 **Hurlstone, M. J.** (2023). [Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory.](H.23.pdf)
 
 ## Peer Reviewed Manuscripts - published
+
+Andreotta, M. A., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2026, in press). [Does extreme climate event exposure influence climate-related opinions? The case of the 2019-2020 Australian Black Summer bushfires.](Andreotta.et.al.26.pdf) *Royal Society Open Science.* [[Supplementary Materials](Andreotta.et.al.26.SM.pdf)]
 
 Hughes, R. W., **Hurlstone, M. J.,** Marsh, J. E., & Jones, D. M. (2026, in press). [High cognitive load abolishes auditory distraction in short-term memory: Implications for working memory-based attentional control and an alternative task-engagement account.](Hughes.et.al.26.JML.pdf) *Journal of Memory and Language.* [<a href="https://github.com/mark-hurlstone/Hughes-et-al-2025">GitHub Repository</a>] 
 
